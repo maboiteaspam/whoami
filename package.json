@@ -15,7 +15,7 @@
         "public": "npm publish --access=public"
     },
     "keywords": [
-        ""
+        "whoami"
     ],
     "author": "maboiteaspam",
     "license": "WTF",
